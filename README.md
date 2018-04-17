@@ -9,4 +9,6 @@ that appears in the spade row is worth one point; each diamond that appears in t
 row is worth one point, etc.
 
 Likewise, each of the thirteen columns in the matrix is home to one face value, ace through
-king. Each card whose face value matches its column is worth one point as well
+king. Each card whose face value matches its column is worth one point as well.
+
+To run the file - download/install the appropriate node modules (webconfig) and npm start will run it in localhost:8000
